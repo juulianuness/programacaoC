@@ -5,6 +5,6 @@
         int quantidade = 1;
         float altura = 1.58;
         char letra = 'J'; 
-        char nome[5] = 'Julia';
+        char nome[5] = "Julia";
          
     }
