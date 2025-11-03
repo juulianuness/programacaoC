@@ -42,3 +42,8 @@ int main() {
 
     return 0;
 }
+
+//verificar os tipos de dados antes de converter ou manipular
+//usar casting explícito para evitar perda de dados
+//usar operações apropriadas para cada tipo de dado
+//verificar de ha a necessidade de conversão entre tipos antes de realizar operações para adequar as variaveis
