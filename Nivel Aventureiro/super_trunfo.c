@@ -37,11 +37,11 @@ int main () {
     printf("Código: %s \n", codigo);
     printf("Nome da Cidade: %s \n", nomeCidade);
     printf("População: %d \n", populacao);
-    printf("Área: %f \n", area);
+    printf("Área: %f km² \n", area);
     printf("PIB: %.2f de reais \n", PIB);
     printf("Número de Pontos Turísticos: %d \n", pontosTuristicos);
-    printf("Densidade Populacional: %.2f \n", densidade);
-    printf("PIB per Capita: %.2f \n", pibPerCapita );
+    printf("Densidade Populacional: %.2f hab/km² \n", densidade);
+    printf("PIB per Capita: %.2f reais \n", pibPerCapita );
 
 
     return 0;
