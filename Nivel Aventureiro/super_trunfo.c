@@ -40,7 +40,7 @@ int main () {
     printf("Área: %f km² \n", area);
     printf("PIB: %.2f de reais \n", PIB);
     printf("Número de Pontos Turísticos: %d \n", pontosTuristicos);
-    printf("Densidade Populacional: %.2f hab/km² \n", densidade);
+    printf("Densidade Populacional: %f hab/km² \n", densidade);
     printf("PIB per Capita: %.2f reais \n", pibPerCapita );
 
 
