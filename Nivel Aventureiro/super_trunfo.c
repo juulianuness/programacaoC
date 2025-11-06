@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main () {
-    char estado, codigo[5], nomeCidade[20];
+    char estado, codigo[6], nomeCidade[20];
     float area, PIB;
     int pontosTuristicos, populacao, carta;
 
