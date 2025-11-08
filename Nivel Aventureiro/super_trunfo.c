@@ -7,7 +7,7 @@ int main () {
 
     printf("Digite o numero da carta: \n");
     scanf("%d", &carta);
-
+ 
     printf("Digite uma letra de 'A' a 'H' para o Estado: \n");
     scanf(" %c", &estado); 
 
