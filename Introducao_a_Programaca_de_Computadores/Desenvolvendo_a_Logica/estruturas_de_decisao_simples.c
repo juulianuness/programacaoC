@@ -3,7 +3,7 @@
 int main (){
     int numero1, numero2;
 
-    numero1 = 0;
+    numero1 = 10;
     numero2 = 5;
 
     if (numero1 > numero2) {
@@ -11,6 +11,7 @@ int main (){
     printf("Número 1 é maior que número 2");
     }
     printf("\n A condição não foi atendida\n");
+
 
     return 0;
 }
