@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 int main (){
+    int nota = 70;
 
- float temperatura = 32.0;
+    if (nota >= 60) {
+        printf("Aluno aprovado\n");
 
-    if (temperatura > 30.0) {
-    printf("Está calor\n");
-
-}
-    return 0;
+    }
+    printf("Fora do IF\n");
 }
