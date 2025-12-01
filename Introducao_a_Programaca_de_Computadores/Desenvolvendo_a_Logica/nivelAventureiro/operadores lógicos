@@ -1,0 +1,25 @@
+// OPERADOR E (&&) 
+// o resultado de uma condição com && só vai ser verdadeiro se ambas as condições forem verdadeiras
+
+// OPERADOR OU (||)
+// o resultado de uma condição com || vai ser verdadeiro se pelo menos uma das condições for verdadeira e falso se ambas forem falsas
+
+// OPERADOR NÃO (!)
+// o operador ! inverte o valor lógico de uma condição, ou seja, se a condição for verdadeira, o resultado será falso, e se for falsa, o resultado será verdadeiro
+
+#include <stdio.h>
+
+int a= 10, b= 5;
+if (a > 0 && b > 0) {
+    printf("Ambos os números são positivos.\n");
+} else {
+    printf("Pelo menos um dos números não é negativo.\n");
+}
+
+return 0;
+}   
+
+
+
+
+
