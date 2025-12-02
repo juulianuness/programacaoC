@@ -9,17 +9,15 @@
 
 #include <stdio.h>
 
-int a= 10, b= 5;
-if (a > 0 && b > 0) {
-    printf("Ambos os números são positivos.\n");
-} else {
-    printf("Pelo menos um dos números não é negativo.\n");
+int main() {
+
+    int a = 10, b = 5;
+
+    if (a > 0 && b > 0) {
+        printf("Ambos os números são positivos.\n");
+    } else {
+        printf("Pelo menos um dos números não é positivo.\n");
+    }
+
+    return 0;
 }
-
-return 0;
-}   
-
-
-
-
-
