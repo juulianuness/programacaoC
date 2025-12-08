@@ -1,10 +1,11 @@
+
 // verificam varias decisões em sequência usando if, else if e else sem estarem uma dentro da outra(aninhada)
 
 
-// if (condicaol) {
-    // // Código a ser executado se condicaol for verdadeira
+// if (condicao) {
+    // // Código a ser executado se a condicao for verdadeira
 // } else if (condicao2) {
-    // // Código a ser executado se condicaol for falsa e condicao2 for verdadeira
+    // // Código a ser executado se a condicao  for falsa e condicao2 for verdadeira
 // } else {
     // // Código a ser executado se todas as condições anteriores forem falsas
 // }
